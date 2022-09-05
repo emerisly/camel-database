@@ -1,6 +1,6 @@
 # CamelDB SQL Database
 CS 3110 Final Project  
-[Chuhan Ouyang](https://github.com/chuhanouyang), [Yolanda Wang](https://github.com/yolandaw2021), [Fengyu Li](https://github.com/fengyuli2002), [Emerald Liu](https://github.com/emerisly)  
+[Emerald Liu](https://github.com/emerisly), [Chuhan Ouyang](https://github.com/chuhanouyang), [Yolanda Wang](https://github.com/yolandaw2021), [Fengyu Li](https://github.com/fengyuli2002)
 
 ## Project Description  
 In this project, we create a database management system (DBS) that stores data and supports basic SQL queries in OCaml.  
